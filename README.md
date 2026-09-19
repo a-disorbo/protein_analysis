@@ -124,7 +124,4 @@ especially for plant sources.
 
 ## About this project
 
-Built as a personal tool to plan meals around complete protein intake,
-motivated by the common (and only partly true) claim that plant proteins
-like oats are "incomplete." The data tells a more specific story than the
-generic advice does.
+Built as a personal tool to plan meals around complete protein intake.
