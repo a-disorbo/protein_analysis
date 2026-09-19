@@ -1,0 +1,285 @@
+food_name,food_category,protein_g_per_100g,protein_per_100kcal,z_score_outliers,category_size
+"Gelatins, dry powder, unsweetened",Sweets,85.60,25.55224200000,11.285929046599755,7
+"Vital wheat gluten","Cereal Grains and Pasta",75.16,20.31351574800,10.068113137814475,4
+"Salad dressing, blue or roquefort cheese, low calorie","Fats and Oils",5.10,5.15151510000,9.207074740335601,8
+"Leavening agents, yeast, baker's, active dry","Baked Products",40.44,12.44307661200,8.373437426596498,13
+"Gelatin desserts, dry mix, reduced calorie, with aspartame, no added sodium",Sweets,55.30,16.02898703000,6.823372296214503,7
+"Gelatin desserts, dry mix, reduced calorie, with aspartame, added phosphorus, potassium, sodium, vitamin C",Sweets,55.30,16.02898703000,6.823372296214503,7
+"Beverages, Energy drink, VAULT Zero, sugar-free, citrus flavor",Beverages,0.25,25.00000000000,6.4189512824298545,15
+"Margarine-like, vegetable oil spread, fat free, liquid, with salt","Fats and Oils",1.50,3.48837210000,6.115239500318415,8
+"Beverages, Protein powder whey based",Beverages,78.13,22.19602201700,5.646650606635566,15
+"Soy protein isolate, potassium type","Legumes and Legume Products",88.32,27.51402048000,5.598640759273716,14
+"Beverages, WENDY'S, tea, ready-to-drink, unsweetened",Beverages,0.22,22.00000000000,5.592660191190975,15
+"Beverages, tea, green, brewed, regular",Beverages,0.22,22.00000000000,5.592660191190975,15
+"Babyfood, meat, veal, strained","Baby Foods",13.12,16.19753084800,5.427544211972163,15
+"Snacks, pork skins, plain",Snacks,61.30,11.26838055000,5.295728999608483,12
+"Soy protein isolate","Legumes and Legume Products",88.32,26.36418240000,5.282742553520814,14
+"Soup, beef broth bouillon and consomme, canned, condensed","Soups, Sauces, and Gravies",2.52,22.90909093200,5.176741045862525,14
+"Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran","Breakfast Cereals",17.56,8.78000000000,5.057593851854322,5
+"Snacks, pork skins, barbecue-flavor",Snacks,57.90,10.76208144000,4.998766197708292,12
+"Babyfood, meat, lamb, strained","Baby Foods",14.07,14.96808528600,4.931322759547691,15
+"Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Wheat Germ, Regular","Breakfast Cereals",31.43,8.58743032000,4.899542624304456,5
+"Babyfood, meat, beef, strained","Baby Foods",12.03,14.85185183700,4.884409311188693,15
+"Babyfood, meat, beef, junior","Baby Foods",12.03,14.85185183700,4.884409311188693,15
+"Leavening agents, yeast, baker's, compressed","Baked Products",8.40,8.00000040000,4.78035267882453,13
+"Seaweed, spirulina, raw","Vegetables and Vegetable Products",5.92,22.76923049600,4.6118300522881785,31
+"Seeds, sesame flour, low-fat","Nut and Seed Products",50.14,15.05705704200,4.580918602709058,7
+"Seeds, cottonseed flour, low fat (glandless)","Nut and Seed Products",49.83,15.00903518400,4.562401547366062,7
+"Seeds, sunflower seed flour, partially defatted","Nut and Seed Products",48.06,14.74233291000,4.459562111878976,7
+"Babyfood, meat, lamb, junior","Baby Foods",15.20,13.57142792000,4.367612280518074,15
+"Soup, SWANSON, beef broth, lower sodium","Soups, Sauces, and Gravies",1.20,20.00000004000,4.354970873622803,14
+"Beverages, ABBOTT, EAS whey protein powder",Beverages,66.67,17.31688580100,4.302788343894973,15
+"Cowpeas, leafy tips, cooked, boiled, drained, without salt","Vegetables and Vegetable Products",4.67,21.22727251500,4.19394544767433,31
+"Cowpeas, leafy tips, cooked, boiled, drained, with salt","Vegetables and Vegetable Products",4.67,21.22727251500,4.19394544767433,31
+"Soup, chicken broth, less/reduced sodium, ready to serve","Soups, Sauces, and Gravies",1.36,19.42857144800,4.193551725887717,14
+"POPEYES, Fried Chicken, Mild, Breast, meat only, skin and breading removed","Fast Foods",28.98,18.45859944600,4.1878540402032645,17
+"Salad dressing, blue or roquefort cheese dressing, light","Fats and Oils",2.10,2.44186047000,4.169741406214765,8
+"Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed","Fast Foods",27.93,18.25490276400,4.122959165395961,17
+"Watercress, raw","Vegetables and Vegetable Products",2.30,20.90909093000,4.107715350952172,31
+"Cereals ready-to-eat, wheat germ, toasted, plain","Breakfast Cereals",29.10,7.61780091000,4.103720984475425,5
+"Soup, beef broth, less/reduced sodium, ready to serve","Soups, Sauces, and Gravies",1.14,19.00000003800,4.072487374690842,14
+"KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat only, skin and breading removed","Fast Foods",26.89,18.04697880100,4.056717538797824,17
+"Rhubarb, raw","Fruits and Fruit Juices",0.90,4.28571432000,4.002330156149915,15
+"Beverages, Whey protein powder isolate",Beverages,58.14,16.19498421000,3.9937825805982983,15
+"KFC, Fried Chicken, EXTRA CRISPY, Breast, meat only, skin and breading removed","Fast Foods",27.25,17.81045830000,3.9813654606439157,17
+"Bread, wheat, sprouted","Baked Products",13.16,7.00000008400,3.971659397020713,13
+"Bread, wheat, sprouted, toasted","Baked Products",14.30,6.97561007000,3.9519353627886074,13
+"Seeds, cottonseed meal, partially defatted (glandless)","Nut and Seed Products",49.10,13.37874836000,3.933768824638717,7
+"Soup, beef broth, bouillon, consomme, prepared with equal volume water","Soups, Sauces, and Gravies",2.22,18.49999992600,3.9312455938691917,14
+"Seaweed, spirulina, dried","Vegetables and Vegetable Products",57.47,19.81724217200,3.8118144300729586,31
+"Goji berries, dried","Fruits and Fruit Juices",14.26,4.08596058000,3.7459271593092733,15
+"Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Honey Crunch Wheat Germ","Breakfast Cereals",26.55,7.13709666000,3.7091838133021784,5
+"Horned melon (Kiwano)","Fruits and Fruit Juices",1.78,4.04545459400,3.693933858956624,15
+"Egg, white, dried, stabilized, glucose reduced","Dairy and Egg Products",84.08,23.55181696000,3.6855821188755384,17
+"Beverages, coffee, brewed, breakfast blend",Beverages,0.30,15.00000000000,3.6646476449669216,15
+"Salad dressing, mayonnaise, imitation, milk cream","Fats and Oils",2.10,2.16494838000,3.6549531058408284,8
+"Babyfood, meat, ham, junior","Baby Foods",11.30,11.64948414000,3.591888845933194,15
+"Babyfood, meat, ham, strained","Baby Foods",11.30,11.64948414000,3.591888845933194,15
+"Melons, casaba, raw","Fruits and Fruit Juices",1.11,3.96428574600,3.58974589292754,15
+"DENNY'S, top sirloin steak","Restaurant Foods",28.90,15.87911945000,3.522143807525612,6
+"T.G.I. FRIDAY'S, classic sirloin steak (10 oz)","Restaurant Foods",31.02,15.82653118200,3.5053235696081386,6
+"Beverages, Protein powder soy based",Beverages,55.56,14.31958992000,3.477242049135877,15
+"Salad dressing, italian dressing, fat-free","Fats and Oils",0.97,2.06382981200,3.4669705018419696,8
+"Cheese, mozzarella, nonfat","Dairy and Egg Products",31.70,22.48227083000,3.448843885185579,17
+"Babyfood, meat, pork, strained","Baby Foods",14.00,11.29032240000,3.4469261360852075,15
+"Snacks, beef jerky, chopped and formed",Snacks,33.20,8.09755968000,3.4359274884448583,12
+"Cheese, Swiss, nonfat or fat free","Dairy and Egg Products",28.40,22.36220544000,3.4222680624523454,17
+"CRACKER BARREL, grilled sirloin steak","Restaurant Foods",31.52,15.52709241600,3.4095487613213438,6
+"Lemons, raw, without peel","Fruits and Fruit Juices",1.10,3.79310349000,3.3700171236722465,15
+"Soy protein concentrate, produced by alcohol extraction","Legumes and Legume Products",63.63,19.39938714000,3.3692850290750025,14
+"Soy protein concentrate, produced by acid wash","Legumes and Legume Products",63.63,19.39938714000,3.3692850290750025,14
+"Turkey, breast, smoked, lemon pepper flavor, 97% fat-free","Sausages and Luncheon Meats",20.90,22.00000044000,3.3534662906761894,10
+"Cocoa, dry powder, unsweetened",Sweets,19.60,8.59649140000,3.3405364748120037,7
+"Restaurant, family style, sirloin steak","Restaurant Foods",29.80,15.28205090000,3.331172789730525,6
+"Egg, white, dried, powder, stabilized, glucose reduced","Dairy and Egg Products",82.40,21.91488976000,3.3232571633291603,17
+"Egg, white, dried, flakes, stabilized, glucose reduced","Dairy and Egg Products",76.92,21.91453107600,3.3231777705715864,17
+"Guavas, common, raw","Fruits and Fruit Juices",2.55,3.74999991000,3.3146895634144995,15
+"Soup, beef broth or bouillon canned, ready-to-serve","Soups, Sauces, and Gravies",1.14,16.28571430200,3.3057464444179274,14
+"Beverages, nutritional shake mix, high protein, powder",Beverages,53.57,13.66581414000,3.2971723482419604,15
+"Basil, fresh","Spices and Herbs",3.15,13.69565221500,3.2946974405882585,2
+"Vitasoy USA Nasoya, Lite Silken Tofu","Legumes and Legume Products",8.21,19.09302329400,3.2851168397078885,14
+"POPEYES, Fried Chicken, Mild, Drumstick, meat only, skin and breading removed","Fast Foods",26.51,15.59411780300,3.2752708022970887,17
+"Bread, reduced-calorie, wheat","Baked Products",13.32,6.13824894000,3.274767256499077,13
+"Balsam-pear (bitter gourd), leafy tips, raw","Vegetables and Vegetable Products",5.30,17.66666649000,3.22898890587683,31
+"Chicken breast, oven-roasted, fat-free, sliced","Sausages and Luncheon Meats",16.79,21.25316481200,3.1842188852994684,10
+"Egg, white, raw, frozen, pasteurized","Dairy and Egg Products",10.20,21.24999966000,3.17608734665941,17
+"Seeds, cottonseed flour, partially defatted (glandless)","Nut and Seed Products",40.96,11.40946944000,3.1744219716403124,7
+"Egg, white, dried","Dairy and Egg Products",81.10,21.23036611000,3.171741566877042,17
+"Cocoa, dry powder, unsweetened, processed with alkali",Sweets,18.10,8.22727355000,3.167522561599489,7
+"Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed","Fast Foods",26.24,15.25581267200,3.1674915841608136,17
+"KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat only, skin and breading removed","Fast Foods",25.90,15.23529427000,3.160954712200199,17
+"Babyfood, meat, chicken, strained","Baby Foods",13.70,10.53846196000,3.1434647295058227,15
+"Alfalfa seeds, sprouted, raw","Vegetables and Vegetable Products",3.99,17.34782613900,3.1425802775910143,31
+"Chicken breast, fat-free, mesquite flavor, sliced","Sausages and Luncheon Meats",16.80,21.00000000000,3.126846839889116,10
+"Egg, white, raw, fresh","Dairy and Egg Products",10.90,20.96153821000,3.1122379695777083,17
+"Pulled pork in barbecue sauce","Meals, Entrees, and Side Dishes",13.19,7.85119053900,3.1064182956491773,3
+"Groundcherries, (cape-gooseberries or poha), raw","Fruits and Fruit Juices",1.90,3.58490575000,3.102775446638071,15
+"MORI-NU, Tofu, silken, lite extra firm","Legumes and Legume Products",7.00,18.42105230000,3.1005043842545135,14
+"KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat only, skin and breading removed","Fast Foods",26.30,15.02857218000,3.0950959852993156,17
+"Egg substitute, liquid or frozen, fat free","Dairy and Egg Products",10.00,20.83333300000,3.0838604418452205,17
+"Babyfood, meat, turkey, strained","Baby Foods",11.50,10.36036035000,3.0715804246411422,15
+"Babyfood, meat, turkey, junior","Baby Foods",11.50,10.36036035000,3.0715804246411422,15
+"Mayonnaise, made with tofu","Fats and Oils",5.95,1.84782605000,3.065412702345543,8
+"Pastrami, beef, 98% fat-free","Sausages and Luncheon Meats",19.60,20.63157936000,3.043355593529842,10
+"Gelatin desserts, dry mix, reduced calorie, with aspartame",Sweets,15.67,7.91414133500,3.020790138261743,7
+"Formulated Bar, SOUTH BEACH protein bar",Snacks,30.34,7.36407625600,3.005712841734567,12
+"Cheese, cheddar, nonfat or fat free","Dairy and Egg Products",32.14,20.47133837800,3.0037348960517494,17
+"APPLEBEE'S, 9 oz house sirloin steak","Restaurant Foods",26.85,14.20634842500,2.9871117995888676,6
+"Soup, stock, beef, home-prepared","Soups, Sauces, and Gravies",1.97,15.15384616900,2.9860123745179674,14
+"Beef, cured, dried","Sausages and Luncheon Meats",31.10,20.32679828000,2.974286302960439,10
+"Seaweed, laver, raw","Vegetables and Vegetable Products",5.81,16.60000024900,2.939912675611366,31
+"Pumpkin leaves, raw","Vegetables and Vegetable Products",3.15,16.57894738500,2.934207158433185,31
+"Turkey breast, low salt, prepackaged or deli, luncheon meat","Sausages and Luncheon Meats",21.81,20.00917447200,2.9023066017056487,10
+"Asparagus, frozen, cooked, boiled, drained, with salt","Vegetables and Vegetable Products",2.95,16.38888902000,2.8826996169241275,31
+"Asparagus, frozen, cooked, boiled, drained, without salt","Vegetables and Vegetable Products",2.95,16.38888902000,2.8826996169241275,31
+"Oat bran, cooked","Cereal Grains and Pasta",3.21,8.02500000000,2.8672723152930746,4
+"Soy sauce made from soy (tamari)","Legumes and Legume Products",10.51,17.51666701700,2.85204010638938,14
+"Seeds, sesame flour, partially defatted","Nut and Seed Products",40.32,10.55497363200,2.844931468230501,7
+"Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine",Beverages,0.12,12.00000000000,2.8383565537280417,15
+"Beverages, coffee, brewed, prepared with tap water",Beverages,0.12,12.00000000000,2.8383565537280417,15
+"Formulated bar, ZONE PERFECT CLASSIC CRUNCH BAR, mixed flavors",Snacks,30.00,7.04225400000,2.8169524094762517,12
+"Carambola, (starfruit), raw","Fruits and Fruit Juices",1.04,3.35483876000,2.8074624992554296,15
+"Mulberries, raw","Fruits and Fruit Juices",1.44,3.34883721600,2.799758944532144,15
+"Seeds, safflower seed meal, partially defatted","Nut and Seed Products",35.62,10.41520607400,2.7910376016782847,7
+"Sauce, fish, ready-to-serve","Soups, Sauces, and Gravies",5.06,14.45714307400,2.7892052469192548,14
+"Beverages, ABBOTT, EAS soy protein powder",Beverages,47.62,11.75802563200,2.7717094655325227,15
+"Babyfood, meat, chicken, junior","Baby Foods",14.00,9.58904100000,2.760265129381165,15
+"Soup, chicken broth, canned, condensed","Soups, Sauces, and Gravies",4.42,14.25806473000,2.7329688998570263,14
+"Snacks, soy chips or crisps, salted",Snacks,26.50,6.88311795000,2.7236133410126935,12
+"MORI-NU, Tofu, silken, lite firm","Legumes and Legume Products",6.30,17.02702701000,2.7175199488415114,14
+"Soup, stock, fish, home-prepared","Soups, Sauces, and Gravies",2.26,14.12500000000,2.695380309417367,14
+"Soup, vegetable beef, microwavable, ready-to-serve, single brand","Soups, Sauces, and Gravies",6.20,14.09090926000,2.6857502379202476,14
+"POPEYES, Fried Chicken, Mild, Wing, meat only, skin and breading removed","Fast Foods",28.94,13.65094301400,2.65620286548669,17
+"Blackberries, raw","Fruits and Fruit Juices",1.39,3.23255814600,2.650503656406661,15
+"Snack, BALANCE, original bar",Snacks,28.00,6.74698920000,2.6437688889472524,12
+"Beverages, CYTOSPORT, Muscle Milk, ready-to-drink",Beverages,5.87,11.28846140300,2.6423772191368045,15
+"Bread, whole-wheat, commercially prepared, toasted","Baked Products",16.27,5.31699369800,2.6106238695168194,13
+"Lemon peel, raw","Fruits and Fruit Juices",1.50,3.19148940000,2.597787999864325,15
+"Broccoli raab, cooked","Vegetables and Vegetable Products",3.83,15.32000000000,2.5930209933801147,31
+"Fast Foods, Fried Chicken, Wing, meat only, skin and breading removed","Fast Foods",28.77,13.38139595100,2.5703289929409343,17
+"Incaparina, dry mix (corn and soy flours), unprepared","Breakfast Cereals",21.75,5.73878535000,2.561522254938679,5
+"KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat only, skin and breading removed","Fast Foods",28.65,13.26388995000,2.532893247060685,17
+"Apricots, canned, water pack, without skin, solids and liquids","Fruits and Fruit Juices",0.69,3.13636360500,2.5270287788293504,15
+"Beverages, SLIMFAST, Meal replacement,  High Protein Shake, Ready-To-Drink, 3-2-1 plan",Beverages,6.59,10.80327893700,2.508743236043101,15
+"Oscar Mayer, Chicken Breast (honey glazed)","Sausages and Luncheon Meats",19.85,18.21100932000,2.4948075818345234,10
+"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed","Fast Foods",23.21,13.03932693800,2.4613506553650035,17
+"KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat only, skin and breading removed","Fast Foods",22.78,13.01714350800,2.4542833290908987,17
+"Syrups, chocolate, HERSHEY'S Sugar free, Genuine Chocolate Flavored, Lite Syrup",Sweets,2.87,6.67441861800,2.4398613490208625,7
+"POPEYES, Fried Chicken, Mild, Thigh, meat only, skin and breading removed","Fast Foods",24.31,12.93085121900,2.4267918292956754,17
+"Peanut flour, defatted","Legumes and Legume Products",52.20,15.96330288000,2.425280067480939,14
+"Beverages, Energy Drink, sugar free",Beverages,0.42,10.50000000000,2.425211008108602,15
+"Drumstick leaves, raw","Vegetables and Vegetable Products",9.40,14.68750000000,2.4216077540602945,31
+"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, without salt","Vegetables and Vegetable Products",4.83,14.63636349000,2.407749295836405,31
+"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, with salt","Vegetables and Vegetable Products",4.83,14.63636349000,2.407749295836405,31
+"Soy sauce made from soy and wheat (shoyu), low sodium","Legumes and Legume Products",9.05,15.87719330000,2.401622943670832,14
+"Chicken breast, deli, rotisserie seasoned, sliced, prepackaged","Sausages and Luncheon Meats",17.40,17.75510268000,2.391490314927141,10
+"Bread, multi-grain, toasted (includes whole-grain)","Baked Products",14.52,5.04166634400,2.387968558399277,13
+"Bread, multi-grain (includes whole-grain)","Baked Products",13.36,5.04150956000,2.3878417682718482,13
+"Wheat bran, crude","Cereal Grains and Pasta",15.55,7.19907465000,2.383295478822549,4
+"Yogurt, Greek, nonfat, plain, CHOBANI","Dairy and Egg Products",9.53,17.64814860700,2.378837155775599,17
+"Beans, kidney, mature seeds, sprouted, raw","Vegetables and Vegetable Products",4.20,14.48275878000,2.3661210256136673,31
+"Soy flour, defatted","Legumes and Legume Products",51.46,15.73700318400,2.3631081241679923,14
+"McDONALD'S, Bacon Ranch Salad with Grilled Chicken","Fast Foods",10.28,12.69135801200,2.3504926891581612,17
+"Broccoli raab, raw","Vegetables and Vegetable Products",3.17,14.40909076500,2.346156325083373,31
+"Winged bean, immature seeds, cooked, boiled, drained, with salt","Vegetables and Vegetable Products",5.31,14.35135133700,2.33050841616645,31
+"Bread, whole-wheat, commercially prepared","Baked Products",12.45,4.94047623000,2.306136818881344,13
+"Bread, protein (includes gluten)","Baked Products",12.10,4.93877593000,2.3047617981287996,13
+"KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat only, skin and breading removed","Fast Foods",22.41,12.51955267200,2.2957579437462243,17
+"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)","Dairy and Egg Products",10.19,17.27118690700,2.2953987284617954,17
+"Oat bran, raw","Cereal Grains and Pasta",17.30,7.03252093000,2.285698108178825,4
+"Winged beans, immature seeds, raw","Vegetables and Vegetable Products",6.95,14.18367328500,2.2850661425598777,31
+"Cheese, cottage, lowfat, 1% milkfat, no sodium added","Dairy and Egg Products",12.40,17.22222236000,2.284560691611334,17
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Chewy Chocolate Peanut Bar",Snacks,24.29,6.13383953700,2.284134360044689,12
+"Cheese, cottage, lowfat, 1% milkfat","Dairy and Egg Products",12.39,17.20833347100,2.2814864613770793,17
+"Cowpeas, leafy tips, raw","Vegetables and Vegetable Products",4.10,14.13793119000,2.2726696197500362,31
+"Soup, chicken broth, canned, prepared with equal volume water","Soups, Sauces, and Gravies",2.02,12.62500000000,2.2716550618668743,14
+"Bread, protein, (includes gluten), toasted","Baked Products",13.20,4.88888928000,2.2644188121704847,13
+"Vitasoy USA, Nasoya Lite Firm Tofu","Legumes and Legume Products",8.30,15.37037077000,2.262382183909121,14
+"Soy sauce made from soy and wheat (shoyu)","Legumes and Legume Products",8.14,15.35849095000,2.259118408001936,14
+"Mushrooms, white, raw","Vegetables and Vegetable Products",3.09,14.04545440500,2.2476075718785222,31
+"Mushroom, white, exposed to ultraviolet light, raw","Vegetables and Vegetable Products",3.09,14.04545440500,2.2476075718785222,31
+"Beef, cured, luncheon meat, jellied","Sausages and Luncheon Meats",19.00,17.11711710000,2.2469104367926147,10
+"Apricots, raw","Fruits and Fruit Juices",1.40,2.91666662000,2.2450267229436713,15
+"Fish broth","Soups, Sauces, and Gravies",2.00,12.50000000000,2.236344624571,14
+"Soup, chicken broth, low sodium, canned","Soups, Sauces, and Gravies",2.00,12.50000000000,2.236344624571,14
+"Chrysanthemum leaves, raw","Vegetables and Vegetable Products",3.36,14.00000011200,2.2352890460222024,31
+"Chrysanthemum, garland, raw","Vegetables and Vegetable Products",3.36,14.00000011200,2.2352890460222024,31
+"Winged beans, immature seeds, cooked, boiled, drained, without salt","Vegetables and Vegetable Products",5.31,13.97368395900,2.228157129765813,31
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush",Snacks,25.00,6.02409750000,2.219766672742702,12
+"Lasagna with meat & sauce, low-fat, frozen entree","Meals, Entrees, and Side Dishes",6.81,6.74257419000,2.2182361725953634,3
+"Bamboo shoots, cooked, boiled, drained, with salt","Vegetables and Vegetable Products",1.53,13.90909092300,2.210651830891091,31
+"Cheese, cottage, lowfat, 1% milkfat, lactose reduced","Dairy and Egg Products",12.40,16.75675736000,2.181532538964475,17
+"KFC, Fried Chicken, EXTRA CRISPY, Wing, meat only, skin and breading removed","Fast Foods",28.67,12.14830469600,2.1774836022673343,17
+"Mushrooms, white, stir-fried","Vegetables and Vegetable Products",3.58,13.76923060400,2.1727484153462795,31
+"Cheese, American, nonfat or fat free","Dairy and Egg Products",21.05,16.70634934000,2.170374997196166,17
+"Restaurant, Latino, tripe soup","Restaurant Foods",8.61,11.63513555400,2.1647152105494727,6
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Double Chocolate Nut Bar",Snacks,22.35,5.92838220000,2.1636261757295485,12
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar",Snacks,22.50,5.90551200000,2.1502119734568685,12
+"Water convolvulus,raw","Vegetables and Vegetable Products",2.60,13.68421054000,2.1497072065282268,31
+"Jute, potherb, raw","Vegetables and Vegetable Products",4.65,13.67647072500,2.147609646431964,31
+"Babyfood, green beans and turkey, strained","Baby Foods",4.10,8.03921563000,2.134733898169405,15
+"Bread, potato","Baked Products",12.50,4.69924750000,2.111056827197555,13
+"Capers, canned","Spices and Herbs",2.36,10.26086959600,2.100013437224799,2
+"Asparagus, frozen, unprepared","Vegetables and Vegetable Products",3.23,13.45833344100,2.088492463085138,31
+"Salad dressing, blue or roquefort cheese dressing, fat-free","Fats and Oils",1.52,1.32173910400,2.087400493560238,8
+"Cheese, cottage, lowfat, 1% milkfat, with vegetables","Dairy and Egg Products",10.90,16.26865657000,2.0734940769981134,17
+"Fiddlehead ferns, raw","Vegetables and Vegetable Products",4.55,13.38235307500,2.0679010944515164,31
+"Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free","Fats and Oils",1.40,1.30841116000,2.0626234257217084,8
+"Babyfood, cereal, high protein, prepared with whole milk","Baby Foods",8.70,7.83783783000,2.0534549969389295,15
+"Soy meal, defatted, raw","Legumes and Legume Products",49.20,14.59940628000,2.0505729706586764,14
+"Lemon juice from concentrate, bottled, REAL LEMON","Fruits and Fruit Juices",0.47,2.76470586300,2.049970582833491,15
+"Loganberries, frozen","Fruits and Fruit Juices",1.52,2.76363633600,2.048597742815567,15
+"Roast beef, deli style, prepackaged, sliced","Sausages and Luncheon Meats",18.62,16.19130402400,2.037103278293154,10
+"Rolls, hamburger or hot dog, whole wheat","Baked Products",12.38,4.60223033600,2.0325997232435404,13
+"Babyfood, meat, chicken sticks, junior","Baby Foods",14.60,7.76595754000,2.024443104906501,15
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Energy Bar, all flavors",Snacks,21.91,5.67616673400,2.0156926518765794,12
+"Ruffed Grouse, breast meat, skinless, raw","Poultry Products",25.94,23.16071317400,2.0089863315663483,12
+"Beef, New Zealand, imported, intermuscular fat, cooked","Beef Products",7.90,1.41071406000,-2.0242087234567365,10
+"Pork, cured, bacon, unprepared","Pork Products",13.66,3.47582661400,-2.025334946335611,18
+"Mollusks, clam, mixed species, cooked, breaded and fried","Finfish and Shellfish Products",14.24,7.04950488000,-2.0355238884428077,10
+"Chicken, skin (drumsticks and thighs), cooked, roasted","Poultry Products",16.57,3.58657981400,-2.0385891360878854,12
+"Lamb, Australian, imported, fresh, external fat, cooked","Lamb, Veal, and Game Products",16.90,3.14126384000,-2.053085220704315,19
+"Beef, New Zealand, imported, subcutaneous fat, raw","Beef Products",8.50,1.24087590000,-2.05779181603281,10
+"Beef, retail cuts, separable fat, raw","Beef Products",8.21,1.21810128000,-2.062295174829472,10
+"Fish, sablefish, raw","Finfish and Shellfish Products",13.41,6.87692290500,-2.0732343298173634,10
+"Fish, sablefish, cooked, dry heat","Finfish and Shellfish Products",17.19,6.87600000000,-2.0734359914039624,10
+"Beef, New Zealand, imported, intermuscular fat, raw","Beef Products",6.97,1.15780761000,-2.0742173947908826,10
+"Fish, sablefish, smoked","Finfish and Shellfish Products",17.65,6.86770501500,-2.075248507140587,10
+"Beef, Australian, imported, Wagyu, external fat, Aust. marble score 4/5, raw","Beef Products",6.54,1.09731520800,-2.086178911192821,10
+"Chicken, skin (drumsticks and thighs), cooked, braised","Poultry Products",14.61,3.29796789600,-2.098268841824264,12
+"Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 4/5, raw","Beef Products",6.00,1.01010120000,-2.1034242470148437,10
+"Turkey, skin from whole (light and dark), with added solution, raw","Poultry Products",12.29,3.22572188800,-2.1132080048634982,12
+"Bacon, pre-sliced, reduced/low sodium, unprepared","Pork Products",12.53,3.07862350600,-2.1135878192307276,18
+"Veal, external fat only, cooked","Lamb, Veal, and Game Products",15.28,2.82962985600,-2.1156031019898194,19
+"Veal, seam fat only, raw","Lamb, Veal, and Game Products",12.53,2.82207175600,-2.117119356386978,19
+"Turkey, whole, skin (light and dark), raw","Poultry Products",12.96,3.18427459200,-2.1217785533217524,12
+"Pork, cured, breakfast strips, raw or unheated","Pork Products",11.74,3.02577368000,-2.125330297782801,18
+"Beef, New Zealand, imported, subcutaneous fat, cooked","Beef Products",6.50,0.88919285000,-2.127332162122204,10
+"Beef, Australian, imported, Wagyu, external fat, Aust. marble score 9, raw","Beef Products",5.54,0.86697953000,-2.1317245317874307,10
+"Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 9, raw","Beef Products",5.16,0.82296633600,-2.140427518022507,10
+"Chicken, skin (drumsticks and thighs), with added solution, cooked, braised","Poultry Products",12.26,3.04218414000,-2.1511602795583973,12
+"Lamb, Australian, imported, fresh, external fat, raw","Lamb, Veal, and Game Products",12.59,2.58521549200,-2.164635842247775,19
+"Lamb, Australian, imported, fresh, seam fat, cooked","Lamb, Veal, and Game Products",13.81,2.49277957400,-2.1831797047426966,19
+"Potato salad with egg","Meals, Entrees, and Side Dishes",1.96,1.24840769200,-2.183485368861695,3
+"Chicken, skin (drumsticks and thighs), with added solution, raw","Poultry Products",11.11,2.87823881400,-2.185061197026867,12
+"Salmon nuggets, cooked as purchased, unheated","Finfish and Shellfish Products",11.97,6.33333298500,-2.1920127585029747,10
+"Duck, domesticated, meat and skin, raw","Poultry Products",11.49,2.84405995200,-2.1921287652711006,12
+"Chicken, broilers or fryers, skin only, cooked, fried, batter","Poultry Products",10.32,2.61928927200,-2.2386072618402055,12
+"Veal, seam fat only, cooked","Lamb, Veal, and Game Products",11.16,2.20990096800,-2.239928878504557,19
+"Fish, mackerel, salted","Finfish and Shellfish Products",18.50,6.06557465000,-2.2505199403483913,10
+"Salmon nuggets, breaded, frozen, heated","Finfish and Shellfish Products",12.69,5.98584888900,-2.267940610358874,10
+"Beef, variety meats and by-products, suet, raw","Beef Products",1.50,0.17564400000,-2.268426349006357,10
+"Pate de foie gras, canned (goose liver pate), smoked","Poultry Products",11.40,2.46753228000,-2.2699878530810635,12
+"Veal, Australian, separable fat, raw","Lamb, Veal, and Game Products",9.91,1.94695526700,-2.2926792490150203,19
+"Veal, breast, separable fat, cooked","Lamb, Veal, and Game Products",9.40,1.80422284000,-2.321313253600277,19
+"Chicken, skin (drumsticks and thighs), raw","Poultry Products",9.58,2.17727246600,-2.3300083137975056,12
+"Veal, external fat only, raw","Lamb, Veal, and Game Products",8.85,1.75944372000,-2.3302965347954028,19
+"Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, cooked","Lamb, Veal, and Game Products",9.72,1.65870342000,-2.3505063656849186,19
+"Pork, oriental style, dehydrated","Pork Products",11.80,1.91869888000,-2.3713065493326404,18
+"Lamb, Australian, imported, fresh, separable fat, cooked","Lamb, Veal, and Game Products",9.42,1.47417819000,-2.387524556946499,19
+"Veal, composite of trimmed retail cuts, separable fat, cooked","Lamb, Veal, and Game Products",9.42,1.46728934400,-2.3889065501774494,19
+"Pork, fresh, composite of separable fat, with added solution, raw","Pork Products",9.27,1.82480320800,-2.392168830214938,18
+"Fish, herring, Atlantic, pickled","Finfish and Shellfish Products",14.19,5.41603068600,-2.3924501133842404,10
+"Lamb, New Zealand, imported, Intermuscular fat, cooked","Lamb, Veal, and Game Products",8.53,1.43120775600,-2.3961449919103526,19
+"Pork, fresh, belly, raw","Pork Products",9.34,1.80308886800,-2.396993447267082,18
+"Pork, cured, ham, separable fat, boneless, heated","Pork Products",8.77,1.72978339900,-2.413280878326594,18
+"Pork, fresh, composite of separable fat, with added solution, cooked","Pork Products",10.06,1.71965841200,-2.4155305062191728,18
+"Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, raw","Lamb, Veal, and Game Products",6.92,1.08125000000,-2.4663511265678273,19
+"Pork, fresh, separable fat, raw","Pork Products",9.25,1.46360715000,-2.472421449479164,18
+"Pork, cured, ham, separable fat, boneless, unheated","Pork Products",7.50,1.45631100000,-2.474042550083879,18
+"Lamb, Australian, imported, fresh, separable fat, raw","Lamb, Veal, and Game Products",6.27,0.96759267000,-2.4891522837874693,19
+"Veal, composite of trimmed retail cuts, separable fat, raw","Lamb, Veal, and Game Products",6.02,0.94357359600,-2.4939708263534808,19
+"Pork, cured, separable fat (from ham and arm picnic), roasted","Pork Products",7.64,1.29272390800,-2.5103892718158693,18
+"Lamb, New Zealand, imported, subcutaneous fat, cooked","Lamb, Veal, and Game Products",5.24,0.77744832000,-2.5272977445226164,19
+"Lamb, New Zealand, imported, Intermuscular fat, raw","Lamb, Veal, and Game Products",4.63,0.72343750000,-2.5381330263155437,19
+"Pork, fresh, separable fat, cooked","Pork Products",7.06,1.12779546400,-2.5470340228562396,18
+"Lamb, New Zealand, imported, subcutaneous fat, raw","Lamb, Veal, and Game Products",3.87,0.55049782500,-2.572827002666992,19
+"Pork, cured, separable fat (from ham and arm picnic), unheated","Pork Products",5.68,0.98100188800,-2.5796494645373946,18
+"Pork, fresh, variety meats and by-products, jowl, raw","Pork Products",6.38,0.97404608400,-2.5811949451087486,18
+"Mollusks, oyster, eastern, cooked, breaded and fried","Finfish and Shellfish Products",8.77,4.40703550200,-2.612923043616039,10
+"Pork, cured, salt pork, raw","Pork Products",5.05,0.67513349000,-2.6476090658286484,18
+"Chicken, broilers or fryers, separable fat, raw","Poultry Products",3.73,0.59300472500,-2.657606124884841,12
+"Fish, fish sticks, frozen, prepared","Finfish and Shellfish Products",11.01,3.97472890800,-2.7073852403134104,10
+"Pork, fresh, backfat, raw","Pork Products",2.92,0.35960588400,-2.717714805553168,18
+"Pork, fresh, variety meats and by-products, leaf fat, raw","Pork Products",1.76,0.20536753600,-2.751984369530489,18
+"Pork, bacon, rendered fat, cooked","Pork Products",0.07,0.00779510200,-2.7958821501726807,18

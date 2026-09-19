@@ -1,0 +1,19 @@
+food_name,food_category,labeled_protein_g_per_100g,leucine_mg,limiting_rank,limiting_amino_acid,amino_acid_ratio,pct_of_standard,constraint_level,current_usable_protein_g,mg_needed_to_complete,if_primary_fixed_g
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw","Poultry Products",22.500,1861.000,1,valine,1.328,132.8,"PRIMARY bottleneck",22.50,0.0,22.50
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw","Poultry Products",22.500,1861.000,2,leucine,1.402,140.2,"Secondary bottleneck",22.50,0.0,22.50
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw","Poultry Products",22.500,1861.000,3,isoleucine,1.636,163.6,"Tertiary constraint",22.50,0.0,22.50
+"Egg, whole, cooked, fried","Dairy and Egg Products",13.610,1177.000,1,leucine,1.466,146.6,"PRIMARY bottleneck",13.61,0.0,13.61
+"Egg, whole, cooked, fried","Dairy and Egg Products",13.610,1177.000,2,lysine,1.615,161.5,"Secondary bottleneck",13.61,0.0,13.61
+"Egg, whole, cooked, fried","Dairy and Egg Products",13.610,1177.000,3,histidine,1.641,164.1,"Tertiary constraint",13.61,0.0,13.61
+"Oats (Includes foods for USDA's Food Distribution Program)","Cereal Grains and Pasta",16.890,1284.000,1,lysine,0.922,92.2,"PRIMARY bottleneck",15.58,59.1,16.89
+"Oats (Includes foods for USDA's Food Distribution Program)","Cereal Grains and Pasta",16.890,1284.000,2,leucine,1.288,128.8,"Secondary bottleneck",16.89,0.0,16.89
+"Oats (Includes foods for USDA's Food Distribution Program)","Cereal Grains and Pasta",16.890,1284.000,3,isoleucine,1.370,137.0,"Tertiary constraint",16.89,0.0,16.89
+"Pasta, dry, enriched","Cereal Grains and Pasta",13.040,988.000,1,lysine,0.508,50.8,"PRIMARY bottleneck",6.62,288.8,13.04
+"Pasta, dry, enriched","Cereal Grains and Pasta",13.040,988.000,2,valine,1.156,115.6,"Secondary bottleneck",13.04,0.0,13.04
+"Pasta, dry, enriched","Cereal Grains and Pasta",13.040,988.000,3,leucine,1.284,128.4,"Tertiary constraint",13.04,0.0,13.04
+"Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)","Legumes and Legume Products",21.930,1527.000,1,lysine,0.681,68.1,"PRIMARY bottleneck",14.93,314.8,19.82
+"Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)","Legumes and Legume Products",21.930,1527.000,2,valine,0.904,90.4,"Secondary bottleneck",19.82,82.3,19.82
+"Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)","Legumes and Legume Products",21.930,1527.000,3,isoleucine,0.924,92.4,"Tertiary constraint",20.27,49.9,19.82
+"Rice, white, glutinous, unenriched, uncooked","Cereal Grains and Pasta",6.810,563.000,1,lysine,0.803,80.3,"PRIMARY bottleneck",5.47,60.5,6.81
+"Rice, white, glutinous, unenriched, uncooked","Cereal Grains and Pasta",6.810,563.000,2,leucine,1.401,140.1,"Secondary bottleneck",6.81,0.0,6.81
+"Rice, white, glutinous, unenriched, uncooked","Cereal Grains and Pasta",6.810,563.000,3,isoleucine,1.439,143.9,"Tertiary constraint",6.81,0.0,6.81
