@@ -82,6 +82,8 @@ protein-analysis/
     ├── pasta_fix.csv
     ├── pb_fix.csv
     └── yogurt_fix.csv
+├── presentation/
+│   └── fixing_the_protein_gap.pdf    
 ```
 
 ## SQL techniques demonstrated
@@ -114,6 +116,10 @@ protein-analysis/
    data, build the derived table, and create the views
 3. Run `06` through `14` for the analysis (or the versions in `exports/`
    to reproduce the CSVs in `results/`)
+
+## Presentation
+
+A non-technical walkthrough of the findings: [presentation/fixing_the_protein_gap.pdf](presentation/fixing_the_protein_gap.pdf)   
 
 ## Limitations
 

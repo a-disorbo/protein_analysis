@@ -17,3 +17,6 @@ food_name,food_category,labeled_protein_g_per_100g,leucine_mg,limiting_rank,limi
 "Rice, white, glutinous, unenriched, uncooked","Cereal Grains and Pasta",6.810,563.000,1,lysine,0.803,80.3,"PRIMARY bottleneck",5.47,60.5,6.81
 "Rice, white, glutinous, unenriched, uncooked","Cereal Grains and Pasta",6.810,563.000,2,leucine,1.401,140.1,"Secondary bottleneck",6.81,0.0,6.81
 "Rice, white, glutinous, unenriched, uncooked","Cereal Grains and Pasta",6.810,563.000,3,isoleucine,1.439,143.9,"Tertiary constraint",6.81,0.0,6.81
+"Yogurt, Greek, plain, lowfat","Dairy and Egg Products",9.950,529.000,1,tryptophan,0.503,50.3,"PRIMARY bottleneck",5.00,29.7,8.67
+"Yogurt, Greek, plain, lowfat","Dairy and Egg Products",9.950,529.000,2,histidine,0.871,87.1,"Secondary bottleneck",8.67,19.3,8.67
+"Yogurt, Greek, plain, lowfat","Dairy and Egg Products",9.950,529.000,3,leucine,0.901,90.1,"Tertiary constraint",8.97,58.1,8.67
