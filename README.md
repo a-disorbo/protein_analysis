@@ -78,12 +78,13 @@ protein-analysis/
     ├── protein_per_100kcal.csv
     ├── protein_outliers.csv
     ├── amino_scores.csv
-    ├── primary_bottleneck.csv
+    ├── amino_acid_primary_bottleneck.csv
     ├── pasta_fix.csv
     ├── pb_fix.csv
     └── yogurt_fix.csv
 ├── presentation/
-│   └── fixing_the_protein_gap.pdf    
+│   └── fixing_the_protein_gap.pdf
+    └── fixing_the_protein_gap_jpn.pdf      
 ```
 
 ## SQL techniques demonstrated
