@@ -132,3 +132,7 @@ especially for plant sources.
 ## About this project
 
 Built as a personal tool to plan meals around complete protein intake.
+
+## Author
+Anthony DiSorbo — Data Analyst, Greater Tokyo
+[LinkedIn](https://www.linkedin.com/in/adisorbo/) · [GitHub](https://github.com/adisorbo)
